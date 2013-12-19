@@ -1,0 +1,42 @@
+=== Comment Signature ===
+Contributors: vinoth06, buffercode
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
+Tags: comment, signature, comment footer
+Requires at least: 3.0.1
+Tested up to: 3.8
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Comment Signature provides easy way to add user's signature who already registered on that site.
+
+== Description ==
+Comment Signature provides easy way to add user's signature who already registered on that site.
+
+Through this plugin user can,
+
+* Able to add their own signature on their profile.
+* Each comment will be added with signature at the bottom of comment.
+* If user not registered, no signature will be added.
+* All signatures have been <code>.
+* Maximum text support 100 characters.
+
+
+v 1.0
+
+* Public release
+
+== Installation ==
+
+1. Upload the "comment-signature" directory to the plugins directory.
+2. Go to the plugins setting page and activate "Comment Signature"
+3. Go to User --> Profile, check for Extra profile information, then add the Signature in the textarea up to 100 characters.
+
+== Changelog ==
+
+= 1.0 =
+* Public release
+
+== Screenshots ==
+1. Option screen on Profile.
+2. Output screen with Signature added.

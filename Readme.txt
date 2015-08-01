@@ -63,15 +63,15 @@ v 1.0
 For more information : http://buffercode.com/project/comment-signature/
 
 == Changelog ==
-=2.0=
+= 2.0 =
 * Bug fixes and support 4.2.3
-=1.3.2=
+= 1.3.2 =
 * Supports 3.9.1
-=1.3.1=
+= 1.3.1 =
 * Bug fixes
-=1.3=
+= 1.3 =
 * Now user can able to select the font color in setting page.
-=1.2=
+= 1.2 =
 * Now user can able to set the URL size in setting page.
 = 1.1 =
 * Bug fixes

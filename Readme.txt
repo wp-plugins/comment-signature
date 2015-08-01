@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: comment, signature, comment footer
 Requires at least: 3.0.1
-Tested up to: 3.9.1
-Stable tag: 1.3.2
+Tested up to: 4.2.3
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,7 +23,11 @@ Through this plugin user can,
 * Now user can able to select the font color in setting page.
 
 
-For more information : http://buffercode.com/wordpress-comment-signature-plugin/
+For more information : http://buffercode.com/project/comment-signature/
+
+v 2.0
+
+* Bug fixes and support 4.2.3
 
 v 1.3.2
 
@@ -55,10 +59,11 @@ v 1.0
 2. Go to the plugins setting page and activate "Comment Signature"
 3. Go to User --> Profile, check for Extra profile information, then add the Signature in the textarea up to 100 characters.
 
-For more information : http://buffercode.com/wordpress-comment-signature-plugin/
+For more information : http://buffercode.com/project/comment-signature/
 
 == Changelog ==
-
+=2.0=
+* Bug fixes and support 4.2.3
 =1.3.2=
 * Supports 3.9.1
 =1.3.1=
@@ -71,8 +76,9 @@ For more information : http://buffercode.com/wordpress-comment-signature-plugin/
 * Bug fixes
 = 1.0 =
 * Public release
-For more information : http://buffercode.com/wordpress-comment-signature-plugin/
+For more information : http://buffercode.com/project/comment-signature/
 
 == Screenshots ==
 1. Option screen on Profile.
 2. Output screen with Signature added.
+3. Adding Color and Font size

@@ -58,6 +58,7 @@ v 1.0
 1. Upload the "comment-signature" directory to the plugins directory.
 2. Go to the plugins setting page and activate "Comment Signature"
 3. Go to User --> Profile, check for Extra profile information, then add the Signature in the textarea up to 100 characters.
+4. Go to Settings--> Comment Signature, add text size and color of comment signature.
 
 For more information : http://buffercode.com/project/comment-signature/
 

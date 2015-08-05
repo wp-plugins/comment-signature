@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: comment, signature, comment footer
 Requires at least: 3.0.1
-Tested up to: 4.2.3
-Stable tag: 2.1
+Tested up to: 4.2.4
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,17 +15,23 @@ Comment Signature provides easy way to add user's signature who already register
 
 Through this plugin user can,
 
-* Able to add their own signature on their profile.
+* Registered user can able to add their own signature on their profile.
 * Each comment will be added with signature at the bottom of comment.
 * If user not registered, no signature will be added.
 * All signatures have been <code>.
 * User can able to set the URL size in setting page.
 * User can able to select the font color in setting page.
-* User can add horizontal line separation width [New - 2.1]
-* User can add the margin for horizontal line to override the theme CSS [New - 2.1]
+* User can add horizontal line separation width [ver 2.1]
+* User can add the margin for horizontal line to override the theme CSS [ver 2.1]
+* Admin can able to change the size of the Font  [ver - 2.1]
+* Admin can able to restrict the number of characters for Signature [New - 2.2]
 
 
 For more information : http://buffercode.com/project/comment-signature/
+
+v 2.2
+
+* Admin can able to restrict the number of characters for Signature
 
 v 2.1
 
@@ -70,6 +76,8 @@ v 1.0
 For more information : http://buffercode.com/project/comment-signature/
 
 == Changelog ==
+= 2.2 =
+* Admin can able to restrict the number of characters for Signature
 = 2.1 =
 * User can add horizontal line separation width
 * User can add the margin for horizontal line to override the theme CSS
